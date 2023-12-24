@@ -1,3 +1,3 @@
 # readme
 Just simple game. One of my first projects.
-¡»—23-02
+BIS23-02 (24.12.2023)
